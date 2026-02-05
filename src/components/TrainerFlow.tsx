@@ -16,7 +16,6 @@ import {
     Client,
     Session,
     AssessmentItem,
-    RECOMMENDED_ASSESSMENTS
 } from '@/types';
 import { ASSESSMENT_ITEMS, CATEGORIES, getRecommendedAssessments } from '@/lib/engines';
 import { clsx, type ClassValue } from 'clsx';
