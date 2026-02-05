@@ -164,7 +164,7 @@ export default function TrainerFlow() {
                         <Stethoscope className="w-8 h-8 text-blue-600" />
                         Assessment Trainer
                     </h1>
-                    <p className="text-slate-500 font-bold mt-1">臨床推論トレーニング - 評価項目の選定</p>
+                    <p className="text-slate-500 font-bold mt-1">臨床推論トレーニング - 評価項目の選定 -</p>
                 </div>
                 <div className="flex gap-2">
                     {['case', 'selection', 'result'].map((s, i) => (
